@@ -1,13 +1,13 @@
-# "OWZONE!" GENERATOR AND MULTIFUNCTIONAL  OZONATOR FOR THE DISINFECTION OF VIRUSES  CAUSED BY COVID 19 
+## "OWZONE!" GENERATOR AND MULTIFUNCTIONAL  OZONATOR FOR THE DISINFECTION OF VIRUSES  CAUSED BY COVID 19 
 
-## 2021 IEEE HAC/SIGHT Projects - Focus on COVID-19 Response   
+### 2021 IEEE HAC/SIGHT Projects - Focus on COVID-19 Response   
 
 <img src="data/logo.PNG" width="550"></a>
 
 <div align="justify">
  <p>
  The goal of this project was to develop a real-time air monitoring and purification system that allows the recording  of multiple air variables through a mobile application that stores them remotely in  the IBM Cloud service. The TLR5 phase design of a low-cost, portable, pre commercial ozonator equipment is also proposed as a vital device in the face of  contamination caused by the COVID-19 virus in Colombia.
- </p>z
+ </p>
 </div> 
  
 <hr/>
