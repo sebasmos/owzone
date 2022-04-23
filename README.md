@@ -7,11 +7,13 @@
 <div align="justify">
  <p>
  The goal of this project was to develop a real-time air monitoring and purification system that allows the recording  of multiple air variables through a mobile application that stores them remotely in  the IBM Cloud service. The TLR5 phase design of a low-cost, portable, pre commercial ozonator equipment is also proposed as a vital device in the face of  contamination caused by the COVID-19 virus in Colombia.
- </p>
+ </p>z
 </div> 
  
 <hr/>
-## Authors 
+
+## Authors
+
 Our implementing team is composed by 9 IEEE members and a group of 6 volunteers. It is an  interdisciplinary group that contributes in different areas of knowledge: Systems, electronics, mechanics  engineering, graphic design, project management, and medicine. 
 
 * Germán Cabuya Parra: Electronic Engineer, Professor at Distrital University of Colombia + IEEE Senior  Member 
