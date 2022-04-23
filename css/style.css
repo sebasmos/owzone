@@ -9586,3 +9586,7 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+  h1 {
+      font-size: 20px;
+    }
+    
