@@ -19,9 +19,12 @@ Our implementing team is composed by 9 IEEE members and a group of 6 volunteers.
 * Germán Cabuya Parra: Electronic Engineer, Professor at Distrital University of Colombia + IEEE Senior  Member 
 * Giovanna Estefanía Ramírez Ruiz: Electronic Engineer, Master in Project management, ECI University +  Colombian Air Force + IEEE member. 
 * Ronald Gutierrez Rios: PhD in Engineering and Informatics, Electronic Engineer, Distrital University +  Robotic People company + IEEE member. 
-* William Omar Contreras López: Post-doctor in neurology, Foscal Bucaramanga Hospital. - Juan Pablo Rodríguez Millán: Electronic Engineer, student Universidad del Valle + IEEE student. - Laura Daniela Ruiz: Systems and telecommunications engineer, Sergio Arboleda University + Volunteer. 
+* William Omar Contreras López: Post-doctor in neurology, Foscal Bucaramanga Hospital. 
+* Juan Pablo Rodríguez Millán: Electronic Engineer, student Universidad del Valle + IEEE student. 
+* Laura Daniela Ruiz: Systems and telecommunications engineer, Sergio Arboleda University + Volunteer. 
 * Sebastián Cajas Ordoñez: Electronic and telecommunications engineer, Universidad del Cauca + IEEE  member 
 * Julián Humberto Cantillo: 3D modelator, Atomatization and Industrial Robotics, ECCI University +  volunteer. 
 * Camilo Segura: Electronic and telecommunications engineering student, Universidad del Cauca + IEEE  member 
-* Santiago García Chicangana: Systems engineer, Universidad del Cauca + IEEE member - Jesús Alirio Gurrute Campo: Mathematics, Universidad del Cauca + volunteer 
+* Santiago García Chicangana: Systems engineer, Universidad del Cauca + IEEE member 
+* Jesús Alirio Gurrute Campo: Mathematics, Universidad del Cauca + volunteer 
 * Daniela Torres Miranda: Electric engineer, ECI + IEEE Student 
